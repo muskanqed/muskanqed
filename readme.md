@@ -8,7 +8,7 @@
 
 🔗 Open to collaboration on projects using modern web technologies.
 
-<h3 align="center">📊 GitHub Stats</h3> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muskanqed&show_icons=true&theme=radical" alt="muskanqed" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muskanqed&show_icons=true&locale=en&layout=compact&theme=radical" alt="muskanqed" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muskanqed&show_icons=true&theme=radical&cache_seconds=86400" alt="muskanqed" /> </p>
+<h3 align="center">📊 GitHub Stats</h3> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muskanqed&show_icons=true&theme=radical" alt="muskanqed" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muskanqed&show_icons=true&locale=en&layout=compact&theme=radical" alt="muskanqed" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanqed&theme=radical&cache_seconds=86400" /> </p>
 <h3 align="center">🌐 Connect with me</h3> <p align="center"> 
 <a href="https://x.com/muskan_qed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muskanqed" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muskan-badeghar-65aa6a176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muskan-badeghar-65aa6a176" height="30" width="40" /></a>
