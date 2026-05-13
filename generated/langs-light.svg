@@ -1,0 +1,55 @@
+<svg width="495" height="328" xmlns="http://www.w3.org/2000/svg">
+  <defs><style>
+    * { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; }
+    .bg     { fill: #ffffff; }
+    .border { fill: none; stroke: #d0d7de; stroke-width: 1; }
+    .title  { font-size: 20px; font-weight: 700; fill: #1f2328; }
+    .muted  { font-size: 12px; fill: #656d76; }
+    .label  { font-size: 13px; fill: #1f2328; }
+    .section{ font-size: 11px; font-weight: 600; letter-spacing: 1.5px; fill: #656d76; }
+    .value  { font-size: 13px; font-weight: 700; fill: #0969da; }
+    .green  { fill: #1a7f37; }
+  </style></defs>
+  <rect class="bg" width="495" height="328" rx="10"/>
+  <rect class="border" x="0.5" y="0.5" width="494" height="327" rx="10"/>
+
+  <text x="25"  y="30" class="section">TOP LANGUAGES</text>
+  <text x="470" y="30" class="muted" text-anchor="end">by repo count</text>
+  <rect x="25.0" y="52" width="281.8" height="10" fill="#f1e05a" rx="2"/>
+<rect x="306.8" y="52" width="89.0" height="10" fill="#e34c26" rx="2"/>
+<rect x="395.8" y="52" width="29.7" height="10" fill="#3178c6" rx="2"/>
+<rect x="425.5" y="52" width="14.8" height="10" fill="#f34b7d" rx="2"/>
+<rect x="440.3" y="52" width="14.8" height="10" fill="#563d7c" rx="2"/>
+<rect x="455.2" y="52" width="14.8" height="10" fill="#8b949e" rx="2"/>
+  
+  <circle cx="25" cy="90" r="6" fill="#f1e05a"/>
+  <text x="40"  y="95" class="label">JavaScript</text>
+  <text x="470" y="95" class="value" text-anchor="end">63.3%</text>
+  <rect x="40"  y="100" width="241" height="4" rx="2" fill="#f1e05a" opacity="0.35"/>
+
+  <circle cx="25" cy="128" r="6" fill="#e34c26"/>
+  <text x="40"  y="133" class="label">HTML</text>
+  <text x="470" y="133" class="value" text-anchor="end">20.0%</text>
+  <rect x="40"  y="138" width="76" height="4" rx="2" fill="#e34c26" opacity="0.35"/>
+
+  <circle cx="25" cy="166" r="6" fill="#3178c6"/>
+  <text x="40"  y="171" class="label">TypeScript</text>
+  <text x="470" y="171" class="value" text-anchor="end">6.7%</text>
+  <rect x="40"  y="176" width="25" height="4" rx="2" fill="#3178c6" opacity="0.35"/>
+
+  <circle cx="25" cy="204" r="6" fill="#f34b7d"/>
+  <text x="40"  y="209" class="label">C++</text>
+  <text x="470" y="209" class="value" text-anchor="end">3.3%</text>
+  <rect x="40"  y="214" width="13" height="4" rx="2" fill="#f34b7d" opacity="0.35"/>
+
+  <circle cx="25" cy="242" r="6" fill="#563d7c"/>
+  <text x="40"  y="247" class="label">CSS</text>
+  <text x="470" y="247" class="value" text-anchor="end">3.3%</text>
+  <rect x="40"  y="252" width="13" height="4" rx="2" fill="#563d7c" opacity="0.35"/>
+
+  <circle cx="25" cy="280" r="6" fill="#8b949e"/>
+  <text x="40"  y="285" class="label">SCSS</text>
+  <text x="470" y="285" class="value" text-anchor="end">3.3%</text>
+  <rect x="40"  y="290" width="13" height="4" rx="2" fill="#8b949e" opacity="0.35"/>
+  <text x="470" y="320" class="muted" text-anchor="end">Updated Wed, 13 May 2026 18:25:35 GMT</text>
+</svg>

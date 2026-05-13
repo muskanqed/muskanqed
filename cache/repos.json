@@ -1,0 +1,301 @@
+{
+  "repos": [
+    {
+      "name": "100xDevs_Cohort-3.0_Assignments",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "isFork": false
+    },
+    {
+      "name": "100xDevs_Cohort-3.0_WebDev_Part-01-Basics",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "100xDevs_Cohort-3.0_WebDev_Part-02-Backend",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "AmazonClone_HTML-CSS",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "isFork": false
+    },
+    {
+      "name": "Analytical_Website_Backend",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "Analytical_Website_Frontend",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "Backend_Of_Course_Selling_App",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "cosmic-coin-verse",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "isFork": false
+    },
+    {
+      "name": "Cryptex",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "isFork": false
+    },
+    {
+      "name": "CSS_By_MDN",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "isFork": false
+    },
+    {
+      "name": "DSA_CPP",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "C++",
+      "isFork": false
+    },
+    {
+      "name": "Expense_Tracker",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "Fetch_BlockchainTransactions_Backend",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "Gemini_Assistant",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "git_github_learning",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "isFork": false
+    },
+    {
+      "name": "HTML_By_MDN",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "isFork": false
+    },
+    {
+      "name": "Interview_Preps_Guide",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "isFork": false
+    },
+    {
+      "name": "JavaScript_Practice",
+      "owner": "muskanqed",
+      "stars": 1,
+      "forks": 1,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "JWT_Auth_Backend",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "MovieLand_Website",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "CSS",
+      "isFork": false
+    },
+    {
+      "name": "multi_tenant_chatbot",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "isFork": false
+    },
+    {
+      "name": "muskanqed",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "isFork": false
+    },
+    {
+      "name": "NFT_Market_Place_Trial",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "NODEBOX",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "PasteBox",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "Polyrhythms_JavaScript_Project",
+      "owner": "muskanqed",
+      "stars": 1,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "Portfolio_Template",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "SCSS",
+      "isFork": false
+    },
+    {
+      "name": "ReactJS_TicTacToe_App",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "React_Todo_App",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "Scatch_Ecommerce_Website",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "EJS",
+      "isFork": false
+    },
+    {
+      "name": "Simple_Landing_Page",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "isFork": false
+    },
+    {
+      "name": "SQL_PLSQL_Knowledge_Base",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "isFork": false
+    },
+    {
+      "name": "Udemy_DinoNumic_WebChatApp",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "Udemy_Maximilian_NodeJsCompleteGuide",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "YouTube_CodeEvolution_Nodejs",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "isFork": false
+    },
+    {
+      "name": "Youtube_CodeWithNasir_FoodStore",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "isFork": false
+    },
+    {
+      "name": "Zerodha_Landing_Page",
+      "owner": "muskanqed",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "isFork": false
+    }
+  ],
+  "fetchedAt": "2026-05-13T18:19:02.430Z"
+}
