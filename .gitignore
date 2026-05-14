@@ -1,12 +1,4 @@
-# Dependencies
 node_modules/
-
-# Environment variables — never commit this
-.env
-
-# TypeScript build output
 dist/
-
-# OS files
-.DS_Store
-Thumbs.db
+.env
+*.js.map

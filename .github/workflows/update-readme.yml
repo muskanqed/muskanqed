@@ -1,0 +1,47 @@
+name: Update README Stats
+
+on:
+  # Run every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update:
+    name: Fetch stats and update SVGs
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build TypeScript
+        run: npm run build
+
+      - name: Run updater
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          USER_NAME: ${{ secrets.USER_NAME }}
+        run: npm start
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add dark_mode.svg light_mode.svg
+          # Only commit if there are actual changes
+          git diff --staged --quiet || git commit -m "chore: update profile stats [skip ci]"
+          git push
